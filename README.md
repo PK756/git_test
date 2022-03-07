@@ -29,7 +29,7 @@ having the psychologist monitoring the Student's progress.
 The Student Must be able to:
 	1.complete an exercise,
 	2.Book and keep track of upcoming Appointments.
-	3.View their daily progress.
+	3.View daily progress.
 	4.provide daily feedback
 	5.
 	6.
