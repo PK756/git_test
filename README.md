@@ -25,23 +25,26 @@ having the psychologist monitoring the Student's progress.
 2.PsyCad_Admin
 3.Tech_Admin
 
-##Functional Requirements
-The Student Must be able to:
+Functional Requirements
+*The Student Must be able to:
 	1.complete an exercise,
 	2.Book and keep track of upcoming Appointments.
-	3.View daily progress.
+	3.View their daily progress.
 	4.provide daily feedback
 	5.
 	6.
-The psychologist must be able to:
+*The psychologist must be able to:
 	1.Add and disable a Student on the System.
-	2.Assign Excises to Student
+	2.Assign Excises to Student.
 	3.Approve and keep track of an appointment.
 	4.Keep track of Students.
-	5.Provide Student with Visible Feedback
+	5.Provide Student with Visible Feedback.
 	6.
 	7.
 
 
-##Non-Functional Requirements
-	
+Non-Functional Requirements
+	1.Exercises deadline and duration
+	2.Post previous appointement notes.
+	3.
+	4.
