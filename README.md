@@ -1,11 +1,15 @@
 #Introduction:
-Our project will focus on the Mental Health of Students.
+In College, Mental health is common Amongst Students, not only caused by Academics but also lack of Social life.
+According to mental health research conducted by the National Alliance on Mental Illness (NAMI), one in four students has a diagnosable mental illness
+Our project will focus on solving these issues.
 
 ##Company/background:
-Higher Institution, 
+MIND/MATTER offers a broad spectrum of psychological and educational services to UJ students and staff, as well as the wider community.
+MIND/MATTER’s services aim to enhance the psychological fitness of clients to manage personal life challenges, increase productivity, and to optimize their performance.
 
 ##Current Systems(s) procedures:
-
+Systems like "What's up", MoodFit, MoodMission, e.t.c, have similar concepts, but a common floor in most of these apps is that they do not cater for little kids and those who prefer Audios,
+for sometimes I would like to listen to an audio while doing whatever the audio suggests. With Most of them you are not monitored by anyone
 
 ##Problem Statement:
 Students get Overwhelmed by school and most of them battle Mental Health on their own. Institutions have services or helplines
@@ -22,6 +26,22 @@ having the psychologist monitoring the Student's progress.
 3.Tech_Admin
 
 ##Functional Requirements
-1.
+The Student Must be able to:
+	1.complete an exercise,
+	2.Book and keep track of upcoming Appointments.
+	3.View their daily progress.
+	4.provide daily feedback
+	5.
+	6.
+The psychologist must be able to:
+	1.Add and disable a Student on the System.
+	2.Assign Excises to Student
+	3.Approve and keep track of an appointment.
+	4.Keep track of Students.
+	5.Provide Student with Visible Feedback
+	6.
+	7.
+
 
 ##Non-Functional Requirements
+	
