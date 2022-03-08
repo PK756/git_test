@@ -31,7 +31,7 @@ The Student Must be able to:
 1. Book and keep track of upcoming Appointments.
 1. View daily progress.
 1. provide daily feedback
-1. 
+1. contact emergency helpline
 1. 
 The psychologist must be able to:
 1. Add and disable a Student on the System.
