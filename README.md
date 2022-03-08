@@ -34,7 +34,7 @@ The Student Must be able to:
 1. contact emergency helpline
 1. 
 The psychologist must be able to:
-1. Add and disable a Student on the System.
+1. Add, update and disable a Student on the System.
 1. Assign Excises to Student
 1. Approve and keep track of an appointment.
 1. Keep track of Students.
