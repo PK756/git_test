@@ -26,16 +26,16 @@ having the psychologist monitoring the Student's progress.
 1. Tech_Admin
 
 ## Functional Requirements
-The Student Must be able to:
-1. complete an exercise,
-1. Book and keep track of upcoming Appointments.
+The System Must be able to:
+1. allow the Student to complete an exercises assigned to them,
+1. allow the Student to Book and keep track of upcoming Appointments.
 1. View daily progress.
 1. provide daily feedback
 1. contact emergency helpline
 1. 
 The psychologist must be able to:
 1. Add, update and disable a Student on the System.
-1. Assign Excises to Student
+1. Assign exercises to Student
 1. Approve and keep track of an appointment.
 1. Keep track of Students.
 1. Provide Student with Visible Feedback
