@@ -1,6 +1,6 @@
 # Use cases
 
 ## UserAuthentication
-This is th usecase for the user Authentication
+This is th usecase for the user Management
 
-![](userAuthTut.svg)
+![](userManagement.svg)
